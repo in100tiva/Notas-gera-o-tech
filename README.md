@@ -6,7 +6,7 @@ Repositório criado para armazenar materiais, anotações e recursos relacionado
 
 Este projeto tem como objetivo reunir conteúdos, códigos-fonte, exemplos e demais materiais de apoio utilizados durante os estudos e atividades do Geração Tech.
 
-- **Página do projeto:** [https://in100tiva.github.io/Notas-gera-o-tech/](https://in100tiva.github.io/Notas-gera-o-tech/)
+- **Página do projeto:** [https://in100tiva.github.io/Notas-gera-o-tech/](https://in100tiva.github.io/Quadro-de-Notas/)
 - **Tecnologia principal:** HTML
 - **Licença:** MIT License
 
